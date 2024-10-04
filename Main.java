@@ -14,7 +14,7 @@ public class Main {
 		
 		//write an if statement that prints out "Why did the man fall down the well?" if the input was less than 5
 		
-		//write an if statement that prints out "Because he couldn’t see that well." if the input was greater than 1
+		//write an if statement that prints out "Because he couldn't see that well." if the input was greater than 1
 		
 		//write an if statement that prints out "When does a joke become a dad joke?"  if the input was equal to 8
 		
